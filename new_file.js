@@ -1,0 +1,3 @@
+function once(){
+	alert("once");
+}
